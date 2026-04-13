@@ -1,6 +1,6 @@
 # Maiko Casper
 
-> building things • breaking things • fixing things (sometimes in that order)
+> frontend by origin • backend by necessity • devops by survival
 
 <p align="center">
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true" />
@@ -11,81 +11,77 @@
 
 ## 🚀 About Me
 
-I build systems that (usually) survive production.
+Mid-level software engineer who started in frontend,  
+then backend happened… and now somehow touching DevOps too.
 
-Backend-heavy, frontend-capable, and not afraid of touching things labeled *“legacy – do not modify”*.
-
-I like:
-
-* clean APIs
-* predictable systems
-* logs that don’t lie
+I build systems that scale *just enough*,  
+debug things in production (carefully 😌),  
+and write logs that future me won’t hate.
 
 ---
 
 ## ⚙️ Stack I Actually Use
 
 ### 🧠 Core
+- TypeScript
+- JavaScript
+- PHP
+- SQL
 
-* Node.js / Express
-* PHP / Laravel
-* React / Next.js
+### 🎨 Frontend
+- React
+- Next.js
+- Tailwind CSS
+- shadcn/ui
+- HTML / CSS
 
-### 🗄️ Data
+### 🔧 Backend
+- Node.js
+- Express
+- Laravel
+- REST APIs
+- Auth systems (JWT, sessions, the usual pain)
 
-* PostgreSQL / MySQL
-* Supabase / Firebase
-* MongoDB
-* SQL (when I need control, not vibes)
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Supabase
+- Firebase
 
-### 🚀 Infra & Tools
-
-* Docker
-* Railway
-* Cloudflare
-* Git / GitHub
-
----
-
-## 🧪 CLI Things I Run Without Fear
-
-```bash
-# start things
-npm run dev
-php artisan serve
-
-# fix things
-npm install
-composer install
-
-# database chaos
-php artisan migrate
-php artisan db:seed
-
-# last resort
-git stash
-git reset --hard
-```
+### 🚀 DevOps / Infra
+- Docker
+- Railway
+- Cloudflare
+- CI/CD (GitHub Actions)
+- CLI-first workflows (because clicking is slow)
 
 ---
 
 ## 🧠 Currently
 
-* fixing bugs I didn’t write
-* writing code I’ll debug later
-* pretending logs are documentation
+- Building things that start simple and end complicated  
+- Fixing bugs I definitely didn’t write  
+- Writing code I’ll have to explain later  
 
 ---
 
-## 🔗 Connect with Me
+## 📌 Philosophy
 
-[Website](http://mrobles.work/)
-[LinkedIn](https://www.linkedin.com/in/mark-oliver-robles/)
-[X](https://x.com/maikocasper)
-[Facebook](https://www.facebook.com/SketchandGraphics/)
-[Instagram](https://www.instagram.com/maikocasper/)
+- ship > perfect  
+- logs > guessing  
+- simple > clever (until it isn’t)
 
 ---
 
-if it works, don’t touch it
+## 🔗 Connect
+
+[Website](http://mrobles.work/)  
+[LinkedIn](https://www.linkedin.com/in/mark-oliver-robles/)  
+[X](https://x.com/maikocasper)  
+[Instagram](https://www.instagram.com/maikocasper/)  
+
+---
+
+if it works, don’t touch it  
 if it breaks, it was like that before
