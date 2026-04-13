@@ -1,87 +1,95 @@
+<div align="center">
+
 # Maiko Casper
 
-> frontend by origin • backend by necessity • devops by survival
+> frontend-first engineer • backend-capable • devops-curious • breaks things professionally
 
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true&show_rank=true&rank_icon=github&include_all_commits=true" />
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-Mid-level software engineer who started in frontend,  
-then backend happened… and now somehow touching DevOps too.
+I'm a mid-level software engineer focused on frontend development, currently expanding deeper into backend systems and DevOps.
 
-I build systems that scale *just enough*,  
-debug things in production (carefully 😌),  
-and write logs that future me won’t hate.
+I build clean, scalable web applications and enjoy working across the full stack when needed—especially when things break in production.
+
+I started on the frontend side, but now I comfortably work across APIs, databases, deployments, and infrastructure when the project calls for it.
 
 ---
 
-## ⚙️ Stack I Actually Use
+## ⚙️ Tech Stack
 
-### 🧠 Core
-- TypeScript
-- JavaScript
-- PHP
-- SQL
+### Core Stack
+- JavaScript / TypeScript
+- React / Next.js
+- Tailwind CSS / ShadCN UI
 
-### 🎨 Frontend
-- React
-- Next.js
-- Tailwind CSS
-- shadcn/ui
-- HTML / CSS
+### Backend
+- Node.js / Express
+- PHP / Laravel / Symfony
+- REST APIs / API Integration
 
-### 🔧 Backend
-- Node.js
-- Express
-- Laravel
-- REST APIs
-- Auth systems (JWT, sessions, the usual pain)
-
-### 🗄️ Databases
-- PostgreSQL
+### Databases
 - MySQL
+- PostgreSQL
 - MongoDB
 - Supabase
 - Firebase
+- SQL (general)
 
-### 🚀 DevOps / Infra
+### DevOps & Deployment
 - Docker
 - Railway
 - Cloudflare
 - CI/CD (GitHub Actions)
-- CLI-first workflows (because clicking is slow)
+- Linux CLI / Terminal workflows
+
+### Tools & Workflow
+- Git / GitHub
+- Postman
+- VS Code
+- npm / CLI tooling
+- Figma (handoff + UI collaboration)
 
 ---
 
 ## 🧠 Currently
 
-- Building things that start simple and end complicated  
-- Fixing bugs I definitely didn’t write  
-- Writing code I’ll have to explain later  
+- Improving backend architecture skills
+- Learning deeper DevOps workflows
+- Optimizing systems instead of just building features
+- Trying not to break staging (unsuccessfully)
 
 ---
 
-## 📌 Philosophy
+## 📈 Languages & Activity
 
-- ship > perfect  
-- logs > guessing  
-- simple > clever (until it isn’t)
-
----
-
-## 🔗 Connect
-
-[Website](http://mrobles.work/)  
-[LinkedIn](https://www.linkedin.com/in/mark-oliver-robles/)  
-[X](https://x.com/maikocasper)  
-[Instagram](https://www.instagram.com/maikocasper/)  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maikoprosperna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</p>
 
 ---
 
-if it works, don’t touch it  
-if it breaks, it was like that before
+## 🔗 Connect with Me
+
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=globe&logoColor=white)](http://mrobles.work/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-oliver-robles/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/maikocasper)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/maikocasper/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maiko.casper@example.com)
+
+---
+
+## 🧾 Philosophy
+
+> Build fast. Break things. Fix properly. Repeat.
+
+---
+
+⭐ From [Maiko Casper](https://github.com/maikoprosperna)
