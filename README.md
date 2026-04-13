@@ -2,8 +2,8 @@
 
 # Maiko Casper
 
-> mid-level software engineer • full-stack builder • integration-heavy systems engineer  
-> frontend-first origins, backend + devops by necessity
+> mid-level software engineer • full-stack SaaS builder • integration-heavy systems engineer  
+> frontend-first origin → backend + devops + platform engineering evolution
 
 ---
 
@@ -18,23 +18,63 @@
 
 ## 🚀 About Me
 
-I build **real-world production systems**—not just interfaces, but full platforms that handle real users, real data, and real business logic.
+I build **real production systems**, not just interfaces.
 
-Started in frontend development, then naturally expanded into backend systems, APIs, integrations, and infrastructure as project needs grew.
+My background started in frontend development, but I naturally expanded into backend systems, APIs, integrations, and infrastructure as project complexity grew.
 
-I’ve worked on:
-- SaaS-style portfolio websites with custom dashboards
-- E-commerce integration systems (multi-platform sync + automation)
-- Internal tools and admin systems
-- A full-stack dating application (frontend, backend, admin workflows, and deployment pipeline)
-- Large-scale business systems involving **order, inventory, and product data orchestration**
+I focus on building systems that connect:
+- businesses
+- marketplaces
+- internal operations
+- and real-world workflows
 
-I’ve also worked professionally on **production SaaS systems for SMEs**, focusing on:
-- multi-tenant architecture
-- workflow automation
-- API integrations
-- business operations tooling
-- performance and reliability improvements in live systems
+---
+
+## 🧠 Professional Experience
+
+I’ve worked on **production SaaS systems for SMEs**, focusing on:
+
+- multi-tenant SaaS architecture
+- CRM and business workflow systems
+- payment and shipping integrations
+- API orchestration across platforms
+- performance and reliability improvements in live production systems
+
+This includes work on an **e-commerce SaaS platform ecosystem** supporting:
+- online store builders
+- multi-channel selling (Shopify-style integrations)
+- order + inventory synchronization
+- marketing automation tools
+- customer management systems
+
+---
+
+## 🔌 Platform & Marketplace Integrations
+
+Hands-on experience integrating with:
+
+- Shopify APIs
+- Shopee Open API
+- Lazada Seller Center API
+- TikTok Shop API
+- Zalora systems
+
+Typical systems I build:
+- inventory sync engines
+- order ingestion + processing pipelines
+- product feed automation
+- webhook event systems
+- multi-channel commerce dashboards
+
+---
+
+## 🧪 Projects
+
+- SaaS-style portfolio websites with custom admin dashboards
+- Multi-platform e-commerce integration systems
+- Internal tools for managing business workflows
+- Full-stack dating application (auth, matching logic, admin tools, deployment pipeline)
+- Production SaaS features for SME business operations
 
 ---
 
@@ -57,43 +97,14 @@ Docker • Railway • Cloudflare • Git • GitHub CLI • Postman
 
 ---
 
-## 🧠 What I Build
+## 🧠 What I Focus On
 
-- Full-stack web applications
-- Admin dashboards & internal tools
-- E-commerce automation & integrations
-- API orchestration systems
-- Authentication + role-based systems
-- Workflow-driven SaaS platforms
-- Real-time or webhook-based systems
-
----
-
-## 🔌 Platform Integrations
-
-Experienced integrating with:
-- Shopify APIs
-- Shopee Open API
-- Lazada Seller Center API
-- TikTok Shop API
-- Zalora systems
-
-Typical systems I build:
-- inventory synchronization engines
-- order processing pipelines
-- product feed automation
-- multi-channel commerce dashboards
-- webhook-based event systems
-
----
-
-## 🧪 Selected Work
-
-- Multi-platform e-commerce integration systems (sync + automation)
-- SaaS-style dashboards with role-based access control
-- Portfolio platforms with custom admin backends
-- Full-stack dating application (auth, matching logic, admin moderation, deployment pipeline)
-- Production SaaS features for SME business workflows (internal tools, APIs, and automation systems)
+- scalable backend systems
+- integration-heavy architectures
+- API-first development
+- SaaS platform engineering
+- workflow automation
+- production reliability
 
 ---
 
