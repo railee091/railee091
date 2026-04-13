@@ -20,13 +20,13 @@
 
 I build **real production systems**, not just interfaces.
 
-My background started in frontend development, but I naturally expanded into backend systems, APIs, integrations, and infrastructure as project complexity grew.
+Started in frontend development, then expanded into backend systems, APIs, integrations, and infrastructure as project complexity increased.
 
 I focus on building systems that connect:
 - businesses
 - marketplaces
 - internal operations
-- and real-world workflows
+- real-world workflows
 
 ---
 
@@ -34,60 +34,77 @@ I focus on building systems that connect:
 
 I’ve worked on **production SaaS systems for SMEs**, focusing on:
 
-- multi-tenant SaaS architecture
-- CRM and business workflow systems
-- payment and shipping integrations
-- API orchestration across platforms
-- performance and reliability improvements in live production systems
+- multi-tenant SaaS architecture  
+- CRM and business workflow systems  
+- payment and logistics integrations  
+- API orchestration across platforms  
+- performance, scalability, and reliability in live production systems  
 
-This includes work on an **e-commerce SaaS platform ecosystem** supporting:
-- online store builders
-- multi-channel selling (Shopify-style integrations)
-- order + inventory synchronization
-- marketing automation tools
-- customer management systems
+This includes work on an **e-commerce SaaS ecosystem** supporting:
+- online store builders  
+- multi-channel selling systems  
+- order & inventory synchronization  
+- marketing automation tools  
+- customer management systems  
 
 ---
 
-## 🔌 Platform & Marketplace Integrations
+## 🔌 Platform Integrations & Systems
 
 Hands-on experience integrating with:
 
-- Shopify APIs
-- Shopee Open API
-- Lazada Seller Center API
-- TikTok Shop API
-- Zalora systems
+- Shopify APIs  
+- Shopee Open API  
+- Lazada Seller Center API  
+- TikTok Shop API  
+- Zalora systems  
 
-Typical systems I build:
-- inventory sync engines
-- order ingestion + processing pipelines
-- product feed automation
-- webhook event systems
-- multi-channel commerce dashboards
+Built systems around:
+- inventory synchronization engines  
+- order ingestion & processing pipelines  
+- product feed automation  
+- webhook event systems  
+- multi-channel commerce dashboards  
 
 ---
 
-## 🧪 Projects
+## 🧰 Internal CLI & Developer Tools
 
-- SaaS-style portfolio websites with custom admin dashboards
-- Multi-platform e-commerce integration systems
-- Internal tools for managing business workflows
-- Full-stack dating application (auth, matching logic, admin tools, deployment pipeline)
-- Production SaaS features for SME business operations
+I also build and maintain **custom CLI tools used internally to operate systems without a UI**.
+
+These are used for:
+
+- bulk data operations (orders, products, users)  
+- system diagnostics and debugging  
+- deployment and environment management  
+- automation of backend workflows  
+- API testing and service orchestration  
+
+Designed for speed, reliability, and production-grade internal operations.
+
+---
+
+## 🧪 Selected Work
+
+- SaaS-style portfolio platforms with custom dashboards  
+- Multi-platform e-commerce integration systems  
+- Internal business workflow tools  
+- Full-stack dating application (auth, matching logic, admin tools, deployment pipeline)  
+- Production SaaS features for SME business operations  
+- CLI-based internal tooling for system operations and automation  
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### Languages
-JavaScript • TypeScript • PHP • SQL
+JavaScript • TypeScript • PHP • SQL  
 
 ### Frontend
-React • Next.js • Tailwind CSS • Shadcn UI • Bootstrap • Material UI
+React • Next.js • Tailwind CSS • Shadcn UI • Bootstrap • Material UI  
 
 ### Backend
-Node.js • Express • Laravel • REST APIs • Webhooks
+Node.js • Express • Laravel • REST APIs • Webhooks  
 
 ### Databases & Backend Services
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -105,14 +122,15 @@ Node.js • Express • Laravel • REST APIs • Webhooks
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 Focus Areas
 
-- scalable backend systems
-- integration-heavy architectures
-- API-first development
-- SaaS platform engineering
-- workflow automation
-- production reliability
+- scalable backend systems  
+- integration-heavy architectures  
+- API-first development  
+- SaaS platform engineering  
+- workflow automation  
+- production reliability  
+- internal developer tooling (CLI-based systems)  
 
 ---
 
@@ -141,6 +159,7 @@ backend when needed
 devops when required  
 production when it breaks  
 systems when it scales  
+CLI when UI is unnecessary  
 
 ---
 
