@@ -90,10 +90,18 @@ React • Next.js • Tailwind CSS • Shadcn UI • Bootstrap • Material UI
 Node.js • Express • Laravel • REST APIs • Webhooks
 
 ### Databases & Backend Services
-MySQL • PostgreSQL • MongoDB • Supabase • Firebase
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### DevOps & Tools
-Docker • Railway • Cloudflare • Git • GitHub CLI • Postman
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/-GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
