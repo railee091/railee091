@@ -28,6 +28,7 @@ Experienced with **e-commerce integrations** across:
 - Lazada
 - TikTok Shop
 - Zalora
+- facebook
 
 I work across the stack when needed—especially when things break in production.
 
