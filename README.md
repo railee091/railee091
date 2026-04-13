@@ -2,11 +2,11 @@
 
 # Maiko Casper
 
-> frontend-first engineer • backend-capable • devops-curious • breaks things professionally
+> frontend-first engineer • backend capable • devops when needed • breaks things professionally
 
 <p>
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true&show_rank=true&rank_icon=github&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
@@ -15,64 +15,77 @@
 
 ## 🚀 About Me
 
-I'm a mid-level software engineer focused on frontend development, currently expanding deeper into backend systems and DevOps.
+I'm a **mid-level software engineer** with a frontend-first background who gradually ended up doing backend, DevOps, and “whatever breaks in production.”
 
-I build clean, scalable web applications and enjoy working across the full stack when needed—especially when things break in production.
+I enjoy building clean UI systems, scalable APIs, and fixing issues that only appear when everything is already live.
 
-I started on the frontend side, but now I comfortably work across APIs, databases, deployments, and infrastructure when the project calls for it.
+I care about:
+- performance that actually matters
+- systems that don’t collapse under scale
+- code that future-me won’t hate
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Core Stack
-- JavaScript / TypeScript
-- React / Next.js
-- Tailwind CSS / ShadCN UI
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn/ui
+- Bootstrap
+- Material UI
+- HTML5 / CSS3
+- Sass
 
 ### Backend
-- Node.js / Express
-- PHP / Laravel / Symfony
-- REST APIs / API Integration
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- Symfony
+- CodeIgniter
+- REST APIs
+- GraphQL (occasionally when necessary pain)
 
 ### Databases
-- MySQL
 - PostgreSQL
+- MySQL
 - MongoDB
 - Supabase
-- Firebase
+- Firebase (Firestore / Realtime DB)
 - SQL (general)
 
-### DevOps & Deployment
+### DevOps / Cloud / Deployment
 - Docker
 - Railway
 - Cloudflare
 - CI/CD (GitHub Actions)
-- Linux CLI / Terminal workflows
+- Linux CLI
+- Nginx (when it’s not fighting back)
+- Basic server management
 
-### Tools & Workflow
+### Tools & CLI
 - Git / GitHub
+- Bash / CLI tooling
 - Postman
+- npm / pnpm / yarn
 - VS Code
-- npm / CLI tooling
-- Figma (handoff + UI collaboration)
+- Figma
+
+### Testing
+- Jest
+- Vitest
 
 ---
 
 ## 🧠 Currently
 
-- Improving backend architecture skills
-- Learning deeper DevOps workflows
-- Optimizing systems instead of just building features
-- Trying not to break staging (unsuccessfully)
-
----
-
-## 📈 Languages & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maikoprosperna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</p>
+- building scalable frontend systems
+- improving backend architecture skills
+- deploying things that shouldn’t break (but sometimes do)
+- learning less, shipping more
 
 ---
 
@@ -81,15 +94,20 @@ I started on the frontend side, but now I comfortably work across APIs, database
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=globe&logoColor=white)](http://mrobles.work/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-oliver-robles/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/maikocasper)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/SketchandGraphics/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/maikocasper/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maiko.casper@example.com)
 
 ---
 
-## 🧾 Philosophy
+## 🧩 Notes
 
-> Build fast. Break things. Fix properly. Repeat.
+Frontend-first engineer  
+Backend when needed  
+DevOps when forced  
+Debugging when everything is on fire
 
 ---
 
-⭐ From [Maiko Casper](https://github.com/maikoprosperna)
+if it works, don’t touch it.  
+if it breaks, it was already like that.
