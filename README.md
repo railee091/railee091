@@ -150,8 +150,7 @@ Node.js • Express • Laravel • REST APIs • Webhooks
 
 - Website: http://mrobles.work  
 - LinkedIn: https://www.linkedin.com/in/mark-oliver-robles/  
-- X: https://x.com/maikocasper  
-- Email: maiko.casper@example.com  
+- X: https://x.com/maikocasper 
 
 ---
 
